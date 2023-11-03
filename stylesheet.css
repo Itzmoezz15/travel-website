@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+    color: black;
+}
+h1 {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+hr {
+    border: 1px solid gray;
+}
+.dropdown {
+    width: 200px;
+    height: 30px;
+}
+.social-icons {
+    display: flex;
+    justify-content:space-evenly;
+    width: 100px;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    
+width: 30%;
+    
+}
+
+.main-nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 32px;
+  }
+  .navbar {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.footer {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.greece{
+    display: flex;
+    justify-content: space-evenly;
+   max-width:  40%;
+}
+.image-wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    width: 50%;
+}
